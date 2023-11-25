@@ -28,3 +28,8 @@ RELEASE=yes/no
 SOURCEFORGE=yes/no
 ```
 
+# info for transfer.sh
+
+<img align='center' src='https://raw.githubusercontent.com/Misakiayasaka/Gsi/main/IMG_20231125_083549.jpg' width='305'>
+
+```download link see in log```
