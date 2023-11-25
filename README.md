@@ -16,4 +16,15 @@ TG_BOT_TOKEN= token bot
 MY_TOKEN= Github token
 ```
 
+# upload
+
+```
+TRANSFER_SH=yes/no
+```
+```
+RELEASE=yes/no
+```
+```
+SOURCEFORGE=yes/no
+```
 
